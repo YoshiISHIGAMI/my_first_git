@@ -3,3 +3,5 @@
 github 
 「公開鍵をつくろう」以下をよめ
 http://monsat.hatenablog.com/entry/generating-ssh-keys-for-github
+↓
+githubで create new リポジトリ
