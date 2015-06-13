@@ -1,1 +1,5 @@
 スパルタキャンプ Git入門
+今日のメモはここにしていこう
+github 
+「公開鍵をつくろう」以下をよめ
+http://monsat.hatenablog.com/entry/generating-ssh-keys-for-github
